@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_color">#dfecdb</color>
+    <color name="blue">#5d9cec</color>
+    <color name="bottom_nav_bar">#FFFFFF</color>
+    <color name="app_bar_tv">#FFFFFFFF</color>
+    <color name="grey">#C8C9CB</color>
+    <color name="red">#ff5722</color>
+    <color name="lime">#DFECDB</color>
+    <color name="dark_green">#275718</color>
+    <color name="green">#61E757</color>
+    <color name="navy">#0E2849</color>
+    <color name="time_text_color">#363636</color>
+</resources>

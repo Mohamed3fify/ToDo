@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#060e1e</color>
+    <color name="bottom_nav_bar"> #141922</color>
+    <color name="app_bar_tv">#000000</color>
+</resources>
